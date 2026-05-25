@@ -7,7 +7,7 @@
 # Estudiante: Geraldine Muñoz Jaramillo
 # Grupo: 213022_168
 # ============================================================
-lllllll
+
 # --- inicio - datos menu ---
 # Matriz: [Nombre del Producto, Categoría, Precio Base]
 menu = [
